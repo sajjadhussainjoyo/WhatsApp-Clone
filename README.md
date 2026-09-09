@@ -2,7 +2,7 @@
 
 A Flutter-based WhatsApp-inspired messaging interface powered by Supabase. The app includes authentication, contact lists, chat screens, realtime messages, image sharing, status, and calls views.
 
-![image alt](https://github.com/sajjadhussainjoyo/WhatsApp-Clone/blob/575faa7f11f3f2b1a6ce647c35ae479a667c18e6/01_Sign%20In.png)
+![image alt](https://github.com/sajjadhussainjoyo/WhatsApp-Clone/blob/203d88b386a2004b39ffa218b45dcf30c73cbdc4/WhatsApp%20Clone.jpg)
 
 
 ## Features
